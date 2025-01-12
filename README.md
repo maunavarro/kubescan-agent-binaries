@@ -1,1 +1,1 @@
-# kubescan-agent-bin
+# kubescan-agent-binaries
